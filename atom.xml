@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shkero.github.io/xenoblade/</id>
-    <title>Gridea</title>
-    <updated>2021-05-12T02:55:02.661Z</updated>
+    <title>Xenoblade</title>
+    <updated>2021-05-12T03:10:50.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shkero.github.io/xenoblade/"/>
     <link rel="self" href="https://shkero.github.io/xenoblade/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://shkero.github.io/xenoblade/images/avatar.png</logo>
     <icon>https://shkero.github.io/xenoblade/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Xenoblade</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://shkero.github.io/xenoblade/post/hello-gridea/</id>
