@@ -2,14 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shkero.github.io/</id>
     <title>Xenoblade</title>
-    <updated>2021-05-12T03:18:06.432Z</updated>
+    <updated>2021-05-12T04:26:50.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shkero.github.io/"/>
     <link rel="self" href="https://shkero.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>世界没有答案</subtitle>
     <logo>https://shkero.github.io/images/avatar.png</logo>
     <icon>https://shkero.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Xenoblade</rights>
+    <entry>
+        <title type="html"><![CDATA[棒球]]></title>
+        <id>https://shkero.github.io/post/bang-qiu/</id>
+        <link href="https://shkero.github.io/post/bang-qiu/">
+        </link>
+        <updated>2021-05-12T03:21:41.000Z</updated>
+        <content type="html"><![CDATA[<p>棒球</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://shkero.github.io/post/about/</id>
+        <link href="https://shkero.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<h2 id="联系我呀">📬 联系我呀</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://shkero.github.io/post/hello-gridea/</id>
